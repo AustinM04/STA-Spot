@@ -11,13 +11,13 @@ const us=function(){const t=document.createElement("link").relList;if(t&&t.suppo
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-              <a class="nav-link" href="/pages/index.html">Home</a>
-              <a class="nav-link" href="/pages/maps&ous.html">Maps & OUs</a>
-              <a class="nav-link" href="/pages/imaging.html">Imaging</a>
-              <a class="nav-link" href="/pages/post-image.html">Post-Image</a>
-              <a class="nav-link" href="/pages/office-organization.html">Office Organization</a>
-              <a class="nav-link" href="/pages/readiness.html">Readiness</a>
-              <a class="nav-link" href="/pages/faqs.html">FAQs</a>
+              <a class="nav-link" href="pages/index.html">Home</a>
+              <a class="nav-link" href="pages/maps&ous.html">Maps & OUs</a>
+              <a class="nav-link" href="pages/imaging.html">Imaging</a>
+              <a class="nav-link" href="pages/post-image.html">Post-Image</a>
+              <a class="nav-link" href="pages/office-organization.html">Office Organization</a>
+              <a class="nav-link" href="pages/readiness.html">Readiness</a>
+              <a class="nav-link" href="pages/faqs.html">FAQs</a>
             </div>
           </div>
         </div>
